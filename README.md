@@ -6,4 +6,5 @@ A Global Database of Inflation https://www.worldbank.org/en/research/brief/infla
 Наблюдения: раз в месяц за > 50 лет \
 
 Цены на нефть ежедневно https://www.eia.gov/dnav/pet/pet_pri_spt_s1_d.htm \
-https://finance.yahoo.com/markets/
+https://finance.yahoo.com/markets/ \
+ежедневные цены на др. металлы https://www.lbma.org.uk/prices-and-data/precious-metal-prices#/table \
