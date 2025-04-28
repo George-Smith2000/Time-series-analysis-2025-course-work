@@ -12,9 +12,9 @@ tickers = { \
     'wheat': 'ZW=F', \
     'gasoline': 'RB=F' \
 } \
-\
 
-\
+
+
 
 -----------------------\
 Global Economic Monitor https://datacatalog.worldbank.org/search/dataset/0037798 \
