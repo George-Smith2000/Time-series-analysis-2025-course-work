@@ -1,5 +1,6 @@
 # Time-series-analysis-2025-course-work
 Данные ценам на сырье на yahoo https://finance.yahoo.com/markets/ \
+
 По многим данным есть ежедневные цены с ~2000 года \
 Тикеры \
 tickers = { \
