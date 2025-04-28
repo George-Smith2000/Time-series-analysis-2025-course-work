@@ -11,7 +11,7 @@ tickers = { \
     'gas': 'NG=F', \
     'wheat': 'ZW=F', \
     'gasoline': 'RB=F' \
-} \
+} 
 
 
 
