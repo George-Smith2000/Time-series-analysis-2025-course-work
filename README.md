@@ -14,9 +14,8 @@ tickers = { \
 } \
 \
 
-\ 
 \
-\
+
 -----------------------\
 Global Economic Monitor https://datacatalog.worldbank.org/search/dataset/0037798 \
 Commodity Markets https://www.worldbank.org/en/research/commodity-markets \
