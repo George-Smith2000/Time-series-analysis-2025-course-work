@@ -1,20 +1,22 @@
 # Time-series-analysis-2025-course-work
-Данные ценам на сырье на yahoo https://finance.yahoo.com/markets/
-По многим данным есть ежедневные цены с ~2000 года
-Тикеры
-tickers = {
-    'oil': "CL=F",
-    'gold': 'GC=F',
-    'silver': 'SI=F',
-    'platinum': 'PL=F',
-    'copper': 'HG=F',
-    'gas': 'NG=F',
-    'wheat': 'ZW=F',
-    'gasoline': 'RB=F'
-}
+Данные ценам на сырье на yahoo https://finance.yahoo.com/markets/ \
+По многим данным есть ежедневные цены с ~2000 года \
+Тикеры \
+tickers = { \
+    'oil': "CL=F", \
+    'gold': 'GC=F', \
+    'silver': 'SI=F', \
+    'platinum': 'PL=F', \
+    'copper': 'HG=F', \
+    'gas': 'NG=F', \
+    'wheat': 'ZW=F', \
+    'gasoline': 'RB=F' \
+} \
+ \
 
-
-
+\ 
+\
+\
 
 Global Economic Monitor https://datacatalog.worldbank.org/search/dataset/0037798 \
 Commodity Markets https://www.worldbank.org/en/research/commodity-markets \
