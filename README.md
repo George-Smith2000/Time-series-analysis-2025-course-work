@@ -13,6 +13,7 @@ tickers = { \
     'gasoline': 'RB=F' \
 } 
 
+Мировые новости на yahoo https://www.yahoo.com/news/
 
 
 
