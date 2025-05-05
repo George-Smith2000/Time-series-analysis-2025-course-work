@@ -16,9 +16,9 @@ tickers = { \
 
 Новости на yahoo https://www.yahoo.com/news/
 
-Датасет скачанных новостей 
-https://components.one/datasets/all-the-news-articles-dataset
-https://components.one/datasets/all-the-news-2-news-articles-dataset
+Датасет скачанных новостей \
+https://components.one/datasets/all-the-news-articles-dataset \
+https://components.one/datasets/all-the-news-2-news-articles-dataset \
 
 -----------------------\
 Global Economic Monitor https://datacatalog.worldbank.org/search/dataset/0037798 \
