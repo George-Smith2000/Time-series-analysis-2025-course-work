@@ -1,6 +1,6 @@
 # Time-series-analysis-2025-course-work
 
-В работе рассматривается датасет сырьевых цен https://www.worldbank.org/en/research/commodity-markets ("Pink Sheet" Data).
+В работе сравнивается каачество прогнозов разных моделей для датасета сырьевых цен https://www.worldbank.org/en/research/commodity-markets ("Pink Sheet" Data).
 Автор работы: Вячеслав Степанов, факультет Математики НИУ ВШЭ.
 
 Ниже датасеты, не вошедшие в работу.
