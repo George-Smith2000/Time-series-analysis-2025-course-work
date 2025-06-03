@@ -1,4 +1,9 @@
 # Time-series-analysis-2025-course-work
+
+В работе рассматривается датасет сырьевых цен https://www.worldbank.org/en/research/commodity-markets ("Pink Sheet" Data).
+
+Ниже датасеты, не вошедшие в работу.
+
 Данные ценам на сырье на yahoo https://finance.yahoo.com/markets/ \
 
 По многим данным есть ежедневные цены с ~2000 года \
